@@ -1,0 +1,16 @@
+[
+  {
+    "guid": {
+      "a": "53be5912-241d-e79d-ce80-77c2960d60f7",
+      "b": ""
+    },
+    "extraType": "ResItemMaterialOmtl",
+    "name": "heart_mat",
+    "objGuid": "Guid(5715382153823174284, 8655690822159384491)",
+    "rttiType": "Material",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "skinObjGuid": "Guid(4890598163354821627, 571712667111541143)"
+  }
+]

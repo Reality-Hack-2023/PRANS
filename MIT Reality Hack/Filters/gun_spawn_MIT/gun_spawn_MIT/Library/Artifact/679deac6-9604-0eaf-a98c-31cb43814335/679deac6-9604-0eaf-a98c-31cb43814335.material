@@ -1,0 +1,30 @@
+%YAML 1.1
+--- !Material &1
+name: doughnut_mat
+guid: {a: 5396447576914369375, b: 11384522623202413736}
+xshader: {localId: 1, path: 679deac6-9604-0eaf-a98c-31cb43814335--679deac6-9604-0eaf-a98c-31cb43814335.xshader}
+properties:
+  __class: PropertySheet
+  name: ""
+  guid: {a: 5048333025611721020, b: 486459928143554230}
+  floatmap:
+    __class: Map
+  vec4map:
+    __class: Map
+    _AlbedoColor: {x: 1, y: 1, z: 1, w: 1}
+  vec3map:
+    __class: Map
+  vec2map:
+    __class: Map
+  mat4map:
+    __class: Map
+  texmap:
+    __class: Map
+    _AlbedoTexture: {localId: 1, path: 392c8976-af88-e7b7-61ac-38a6086c6907--392c8976-af88-e7b7-61ac-38a6086c6907.png}
+  intmap:
+    __class: Map
+renderQueue: -1
+enabledMacros:
+  __class: Map
+mshaderPath: ""
+instanceCount: 0

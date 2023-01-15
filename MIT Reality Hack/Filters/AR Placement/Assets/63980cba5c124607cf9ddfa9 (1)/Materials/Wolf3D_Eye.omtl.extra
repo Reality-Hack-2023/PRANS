@@ -1,0 +1,16 @@
+[
+  {
+    "guid": {
+      "a": "44100264-c5f4-6a60-5ffa-0cfc1d194818",
+      "b": ""
+    },
+    "extraType": "ResItemMaterialOmtl",
+    "name": "Wolf3D_Eye",
+    "objGuid": "Guid(4748019423923600460, 8634107631059627904)",
+    "rttiType": "Material",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "skinObjGuid": "Guid(5289035842398671330, 528944129134064042)"
+  }
+]

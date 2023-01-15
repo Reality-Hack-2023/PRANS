@@ -1,0 +1,26 @@
+[
+  {
+    "guid": {
+      "a": "36e22437-4f88-b381-6833-e223389b3833",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "alien_BaseColor",
+    "objGuid": "Guid(4937354770050420368, 2512929188596907925)",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 1,
+    "wrapModeT": 1,
+    "wrapModeR": 1,
+    "premultiplyAlpha": true
+  }
+]

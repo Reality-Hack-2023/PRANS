@@ -1,0 +1,26 @@
+[
+  {
+    "guid": {
+      "a": "392c8976-af88-e7b7-61ac-38a6086c6907",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "doughnut_baseColor",
+    "objGuid": "Guid(5275815385373333850, 4428913514179293884)",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 1,
+    "wrapModeT": 1,
+    "wrapModeR": 1,
+    "premultiplyAlpha": true
+  }
+]

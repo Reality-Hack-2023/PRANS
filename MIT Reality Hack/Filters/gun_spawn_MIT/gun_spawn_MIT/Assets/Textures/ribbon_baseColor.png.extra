@@ -1,0 +1,26 @@
+[
+  {
+    "guid": {
+      "a": "3806f177-28db-59a9-b057-189d47dc49d5",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "ribbon_baseColor",
+    "objGuid": "Guid(5143348973869585742, 10899216013195027355)",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 1,
+    "wrapModeT": 1,
+    "wrapModeR": 1,
+    "premultiplyAlpha": true
+  }
+]

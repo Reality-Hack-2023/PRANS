@@ -1,0 +1,26 @@
+[
+  {
+    "guid": {
+      "a": "09a32cf7-39da-0cc4-de81-f81fe4dfb4f3",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "heart_baseColor",
+    "objGuid": "Guid(4866711691698912610, 10932090499027783578)",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 1,
+    "wrapModeT": 1,
+    "wrapModeR": 1,
+    "premultiplyAlpha": true
+  }
+]

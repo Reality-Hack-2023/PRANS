@@ -1,0 +1,16 @@
+[
+  {
+    "guid": {
+      "a": "75f1a114-5252-15c4-2423-3850e85b7a55",
+      "b": ""
+    },
+    "extraType": "ResItemMP3",
+    "name": "real-explosions-real-gunshots-6939 (mp3cut.net)",
+    "objGuid": "Guid(5436215814057367988, 11186578074145408135)",
+    "rttiType": "AudioClip",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "mccState": "SUCCESS"
+  }
+]

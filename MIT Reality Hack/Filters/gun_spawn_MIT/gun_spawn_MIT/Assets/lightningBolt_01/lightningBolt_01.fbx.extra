@@ -1,0 +1,25 @@
+[
+  {
+    "guid": {
+      "a": "67a7a703-96d5-0533-8de6-9e339484fcb7",
+      "b": ""
+    },
+    "extraType": "ResItemFbxAsset",
+    "name": "lightningBolt_01",
+    "objGuid": "Guid(957380923924732400, 4177828546928628405)",
+    "rttiType": "Model",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "importAnimation": true,
+    "importVertexColor": false,
+    "importBlendshape": true,
+    "materialsGUIDs": [
+      "4ff84a05-a0d4-ad7b-9413-1e6619c2ec3e"
+    ],
+    "meshGUIDs": [
+      "ed8ffc70-8b66-9d29-0e43-addad8924a5e"
+    ],
+    "animazGUIDs": []
+  }
+]

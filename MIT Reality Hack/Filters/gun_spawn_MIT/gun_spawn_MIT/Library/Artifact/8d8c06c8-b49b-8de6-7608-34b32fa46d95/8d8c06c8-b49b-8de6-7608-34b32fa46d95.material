@@ -1,0 +1,30 @@
+%YAML 1.1
+--- !Material &1
+name: cactus_mat
+guid: {a: 5379219107807949377, b: 9054613580927378352}
+xshader: {localId: 1, path: 8d8c06c8-b49b-8de6-7608-34b32fa46d95--8d8c06c8-b49b-8de6-7608-34b32fa46d95.xshader}
+properties:
+  __class: PropertySheet
+  name: ""
+  guid: {a: 4933548386965946517, b: 9740654232345147579}
+  floatmap:
+    __class: Map
+  vec4map:
+    __class: Map
+    _AlbedoColor: {x: 1, y: 1, z: 1, w: 1}
+  vec3map:
+    __class: Map
+  vec2map:
+    __class: Map
+  mat4map:
+    __class: Map
+  texmap:
+    __class: Map
+    _AlbedoTexture: {localId: 1, path: ed3678c0-71d7-a50c-f970-0c22b376574c--ed3678c0-71d7-a50c-f970-0c22b376574c.png}
+  intmap:
+    __class: Map
+renderQueue: -1
+enabledMacros:
+  __class: Map
+mshaderPath: ""
+instanceCount: 0

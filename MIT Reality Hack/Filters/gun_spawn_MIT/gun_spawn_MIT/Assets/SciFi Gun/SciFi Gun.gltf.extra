@@ -1,0 +1,25 @@
+[
+  {
+    "guid": {
+      "a": "301550c6-22e7-0997-afb3-b33299562d14",
+      "b": ""
+    },
+    "extraType": "ResItemAssimpAsset",
+    "name": "SciFi Gun",
+    "objGuid": "Guid(4820004442929135922, 3940834626619598984)",
+    "rttiType": "Model",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "importAnimation": true,
+    "importVertexColor": false,
+    "importBlendshape": true,
+    "materialsGUIDs": [
+      "7172c86a-7232-d753-42c9-52512ed701cd"
+    ],
+    "meshGUIDs": [
+      "f76063ad-8e44-fd0a-41d0-5465e23ec853"
+    ],
+    "animazGUIDs": []
+  }
+]

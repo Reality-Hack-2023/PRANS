@@ -1,0 +1,16 @@
+[
+  {
+    "guid": {
+      "a": "4ff84a05-a0d4-ad7b-9413-1e6619c2ec3e",
+      "b": ""
+    },
+    "extraType": "ResItemMaterialOmtl",
+    "name": "lightning_mat",
+    "objGuid": "Guid(5242244040094451446, 711231272375139241)",
+    "rttiType": "Material",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "skinObjGuid": "Guid(5154586115667753122, 8877570465738360244)"
+  }
+]

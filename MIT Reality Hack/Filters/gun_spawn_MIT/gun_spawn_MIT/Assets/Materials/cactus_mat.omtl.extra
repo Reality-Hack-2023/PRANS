@@ -1,0 +1,16 @@
+[
+  {
+    "guid": {
+      "a": "8d8c06c8-b49b-8de6-7608-34b32fa46d95",
+      "b": ""
+    },
+    "extraType": "ResItemMaterialOmtl",
+    "name": "cactus_mat",
+    "objGuid": "Guid(5379219107807949377, 9054613580927378352)",
+    "rttiType": "Material",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "skinObjGuid": "Guid(4874614196323853426, 14636050639130068107)"
+  }
+]

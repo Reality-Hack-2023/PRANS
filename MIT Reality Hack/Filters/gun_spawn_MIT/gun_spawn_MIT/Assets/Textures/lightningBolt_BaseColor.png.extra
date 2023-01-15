@@ -1,0 +1,26 @@
+[
+  {
+    "guid": {
+      "a": "222009b4-91cd-9d9b-aa4a-3872051f4a6d",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "lightningBolt_BaseColor",
+    "objGuid": "Guid(5359169831070569591, 16077880308351170738)",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 1,
+    "wrapModeT": 1,
+    "wrapModeR": 1,
+    "premultiplyAlpha": true
+  }
+]

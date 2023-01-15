@@ -1,0 +1,31 @@
+%YAML 1.1
+--- !Material &1
+name: watermelon_mat
+guid: {a: 4767783951718718113, b: 17459948677385861814}
+xshader: {localId: 1, path: 0e97fa61-b2b8-19fa-2a52-3c845d290be1--0e97fa61-b2b8-19fa-2a52-3c845d290be1.xshader}
+properties:
+  __class: PropertySheet
+  name: ""
+  guid: {a: 5727426559557163603, b: 8072305015119750537}
+  floatmap:
+    __class: Map
+  vec4map:
+    __class: Map
+    _AlbedoColor: {x: 1, y: 1, z: 1, w: 1}
+  vec3map:
+    __class: Map
+  vec2map:
+    __class: Map
+  mat4map:
+    __class: Map
+  texmap:
+    __class: Map
+    _AlbedoTexture: {localId: 1, path: 67bd12eb-179f-ed2c-de22-a7bac6f44202--67bd12eb-179f-ed2c-de22-a7bac6f44202.png}
+  intmap:
+    __class: Map
+renderQueue: -1
+enabledMacros:
+  __class: Map
+  AE_AMAZING_USE_BONES: !<str> 1
+mshaderPath: ""
+instanceCount: 0

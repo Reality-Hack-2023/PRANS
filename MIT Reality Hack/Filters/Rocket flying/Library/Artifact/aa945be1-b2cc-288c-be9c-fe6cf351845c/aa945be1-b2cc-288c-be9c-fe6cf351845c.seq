@@ -1,0 +1,26 @@
+%YAML 1.1
+--- !AnimSeq &1
+name: Texture Sequence
+guid: {a: 5266573256996611541, b: 163005515395568296}
+assettype:
+  __class: SeqAssetType
+  value: atlas
+assetfilename: ""
+fps: 1
+lazyload: true
+cache: false
+atlases:
+  - {localId: 1, path: aa945be1-b2cc-288c-be9c-fe6cf351845c--0.imageatlas}
+  - {localId: 1, path: aa945be1-b2cc-288c-be9c-fe6cf351845c--1.imageatlas}
+  - {localId: 1, path: aa945be1-b2cc-288c-be9c-fe6cf351845c--2.imageatlas}
+  - {localId: 1, path: aa945be1-b2cc-288c-be9c-fe6cf351845c--3.imageatlas}
+  - {localId: 1, path: aa945be1-b2cc-288c-be9c-fe6cf351845c--4.imageatlas}
+  - {localId: 1, path: aa945be1-b2cc-288c-be9c-fe6cf351845c--5.imageatlas}
+  - {localId: 1, path: aa945be1-b2cc-288c-be9c-fe6cf351845c--6.imageatlas}
+  - {localId: 1, path: aa945be1-b2cc-288c-be9c-fe6cf351845c--7.imageatlas}
+  - {localId: 1, path: aa945be1-b2cc-288c-be9c-fe6cf351845c--8.imageatlas}
+memoryLimit: 0
+preload: false
+indexAction:
+  __class: Map
+preloadCount: 0

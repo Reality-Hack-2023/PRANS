@@ -1,0 +1,18 @@
+[
+  {
+    "guid": {
+      "a": "1f49ba27-88f0-6121-b4e3-b53a880bfaf1",
+      "b": ""
+    },
+    "extraType": "ResItemTextureSequence",
+    "name": "server room",
+    "objGuid": "Guid(4707068437688484304, 15641024359445406612)",
+    "rttiType": "AnimSeq",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "guid": {
+      "a": "e887c499-b979-9544-1c3e-81592272ad07",
+      "b": ""
+    },
+    "extraType": "ResItemFolder",
+    "name": "lightningBolt_01",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false
+  }
+]

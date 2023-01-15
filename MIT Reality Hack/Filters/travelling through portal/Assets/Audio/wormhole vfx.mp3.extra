@@ -1,0 +1,16 @@
+[
+  {
+    "guid": {
+      "a": "dec13523-9f3d-0e80-d8ed-67d7b95ad725",
+      "b": ""
+    },
+    "extraType": "ResItemMP3",
+    "name": "wormhole vfx",
+    "objGuid": "Guid(5736950749471274809, 12853686475271232647)",
+    "rttiType": "AudioClip",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "mccState": "SUCCESS"
+  }
+]

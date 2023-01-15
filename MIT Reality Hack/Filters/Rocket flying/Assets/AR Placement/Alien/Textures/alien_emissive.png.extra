@@ -1,0 +1,26 @@
+[
+  {
+    "guid": {
+      "a": "93aeea56-efd9-b1cb-51ca-b805e4a5d9c8",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "alien_emissive",
+    "objGuid": "Guid(4643477520257920676, 18380387295818800273)",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 1,
+    "wrapModeT": 1,
+    "wrapModeR": 1,
+    "premultiplyAlpha": true
+  }
+]

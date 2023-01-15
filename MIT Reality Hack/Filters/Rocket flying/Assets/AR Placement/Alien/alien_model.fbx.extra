@@ -1,0 +1,32 @@
+[
+  {
+    "guid": {
+      "a": "44f7938f-abbb-2f4c-9885-c5910a31e245",
+      "b": ""
+    },
+    "extraType": "ResItemFbxAsset",
+    "name": "alien_model",
+    "objGuid": "Guid(3044625962801948361, 8865841274269895342)",
+    "rttiType": "Model",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "importAnimation": true,
+    "importVertexColor": false,
+    "importBlendshape": true,
+    "materialsGUIDs": [
+      "a4586be0-449e-0226-ea5a-a20d30c2e72b",
+      "dd45471c-92d5-eccb-a9d4-47948bb79ee0"
+    ],
+    "meshGUIDs": [
+      "d043a655-823f-ca1f-594d-f162f1a33d79",
+      "a58b2e80-8898-7481-de81-5939438e5c10"
+    ],
+    "animazGUIDs": [
+      "481c0572-745a-7f87-e670-2a083547f7a8",
+      "233e3b12-e30d-e1c8-ed27-77f15b4e6f50",
+      "aa75d5e0-bc07-3cc7-ebaf-082cd0cd030a",
+      "88ab095e-cd45-bf96-f4c5-0097986baabf"
+    ]
+  }
+]

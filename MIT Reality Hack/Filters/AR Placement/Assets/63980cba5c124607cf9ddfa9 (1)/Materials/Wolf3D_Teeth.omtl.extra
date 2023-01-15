@@ -1,0 +1,16 @@
+[
+  {
+    "guid": {
+      "a": "44650675-b288-5566-a39c-c6577ad40644",
+      "b": ""
+    },
+    "extraType": "ResItemMaterialOmtl",
+    "name": "Wolf3D_Teeth",
+    "objGuid": "Guid(4698899441391377101, 15783609722789531071)",
+    "rttiType": "Material",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "skinObjGuid": "Guid(5494515359963435164, 4987700625065394107)"
+  }
+]

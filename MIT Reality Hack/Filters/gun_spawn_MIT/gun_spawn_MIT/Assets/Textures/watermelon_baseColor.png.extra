@@ -1,0 +1,26 @@
+[
+  {
+    "guid": {
+      "a": "67bd12eb-179f-ed2c-de22-a7bac6f44202",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "watermelon_baseColor",
+    "objGuid": "Guid(4891066596639328495, 14256046222904315788)",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 1,
+    "wrapModeT": 1,
+    "wrapModeR": 1,
+    "premultiplyAlpha": true
+  }
+]

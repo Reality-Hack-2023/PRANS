@@ -1,0 +1,16 @@
+[
+  {
+    "guid": {
+      "a": "a8493639-9314-818d-3d97-9096baa32275",
+      "b": ""
+    },
+    "extraType": "ResItemMaterialOmtl",
+    "name": "ribbon_mat",
+    "objGuid": "Guid(4613332575645796774, 18128378726225752482)",
+    "rttiType": "Material",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "skinObjGuid": "Guid(5075289230882574092, 17569306992622808983)"
+  }
+]

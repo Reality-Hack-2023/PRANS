@@ -1,0 +1,16 @@
+[
+  {
+    "guid": {
+      "a": "b148974a-24fc-59b3-5822-e1078ecc40f4",
+      "b": ""
+    },
+    "extraType": "ResItemMaterialOmtl",
+    "name": "boundBoxEdge_mat",
+    "objGuid": "Guid(4670184152991015738, 3383541836079914684)",
+    "rttiType": "Material",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "skinObjGuid": "Guid(5702469546296970175, 2000568172587798425)"
+  }
+]

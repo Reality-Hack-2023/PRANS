@@ -1,0 +1,16 @@
+[
+  {
+    "guid": {
+      "a": "7172c86a-7232-d753-42c9-52512ed701cd",
+      "b": ""
+    },
+    "extraType": "ResItemMaterialOmtl",
+    "name": "ChumboScyFi",
+    "objGuid": "Guid(4681781610581112854, 9520831446930123697)",
+    "rttiType": "Material",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "skinObjGuid": "Guid(5200864941645843773, 3614181398053267114)"
+  }
+]

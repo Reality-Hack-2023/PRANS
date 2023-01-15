@@ -1,0 +1,30 @@
+%YAML 1.1
+--- !Material &1
+name: ribbon_mat
+guid: {a: 4613332575645796774, b: 18128378726225752482}
+xshader: {localId: 1, path: a8493639-9314-818d-3d97-9096baa32275--a8493639-9314-818d-3d97-9096baa32275.xshader}
+properties:
+  __class: PropertySheet
+  name: ""
+  guid: {a: 4666391184323422289, b: 13827929960156315802}
+  floatmap:
+    __class: Map
+  vec4map:
+    __class: Map
+    _AlbedoColor: {x: 1, y: 1, z: 1, w: 1}
+  vec3map:
+    __class: Map
+  vec2map:
+    __class: Map
+  mat4map:
+    __class: Map
+  texmap:
+    __class: Map
+    _AlbedoTexture: {localId: 1, path: 3806f177-28db-59a9-b057-189d47dc49d5--3806f177-28db-59a9-b057-189d47dc49d5.png}
+  intmap:
+    __class: Map
+renderQueue: -1
+enabledMacros:
+  __class: Map
+mshaderPath: ""
+instanceCount: 0

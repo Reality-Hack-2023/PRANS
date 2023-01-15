@@ -1,0 +1,16 @@
+[
+  {
+    "guid": {
+      "a": "0e97fa61-b2b8-19fa-2a52-3c845d290be1",
+      "b": ""
+    },
+    "extraType": "ResItemMaterialOmtl",
+    "name": "watermelon_mat",
+    "objGuid": "Guid(5641496789821841175, 872854429229865104)",
+    "rttiType": "Material",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "skinObjGuid": "Guid(4767783951718718113, 17459948677385861814)"
+  }
+]

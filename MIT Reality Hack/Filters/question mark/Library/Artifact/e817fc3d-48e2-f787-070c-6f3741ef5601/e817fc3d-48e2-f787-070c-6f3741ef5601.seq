@@ -1,0 +1,45 @@
+%YAML 1.1
+--- !AnimSeq &1
+name: frame_00_delay-0.03s
+guid: {a: 5210019677828347817, b: 14541986657206629552}
+assettype:
+  __class: SeqAssetType
+  value: atlas
+assetfilename: ""
+fps: 1
+lazyload: true
+cache: false
+atlases:
+  - {localId: 1, path: e817fc3d-48e2-f787-070c-6f3741ef5601--0.imageatlas}
+  - {localId: 1, path: e817fc3d-48e2-f787-070c-6f3741ef5601--1.imageatlas}
+  - {localId: 1, path: e817fc3d-48e2-f787-070c-6f3741ef5601--2.imageatlas}
+  - {localId: 1, path: e817fc3d-48e2-f787-070c-6f3741ef5601--3.imageatlas}
+  - {localId: 1, path: e817fc3d-48e2-f787-070c-6f3741ef5601--4.imageatlas}
+  - {localId: 1, path: e817fc3d-48e2-f787-070c-6f3741ef5601--5.imageatlas}
+  - {localId: 1, path: e817fc3d-48e2-f787-070c-6f3741ef5601--6.imageatlas}
+  - {localId: 1, path: e817fc3d-48e2-f787-070c-6f3741ef5601--7.imageatlas}
+  - {localId: 1, path: e817fc3d-48e2-f787-070c-6f3741ef5601--8.imageatlas}
+  - {localId: 1, path: e817fc3d-48e2-f787-070c-6f3741ef5601--9.imageatlas}
+  - {localId: 1, path: e817fc3d-48e2-f787-070c-6f3741ef5601--10.imageatlas}
+  - {localId: 1, path: e817fc3d-48e2-f787-070c-6f3741ef5601--11.imageatlas}
+  - {localId: 1, path: e817fc3d-48e2-f787-070c-6f3741ef5601--12.imageatlas}
+  - {localId: 1, path: e817fc3d-48e2-f787-070c-6f3741ef5601--13.imageatlas}
+  - {localId: 1, path: e817fc3d-48e2-f787-070c-6f3741ef5601--14.imageatlas}
+  - {localId: 1, path: e817fc3d-48e2-f787-070c-6f3741ef5601--15.imageatlas}
+  - {localId: 1, path: e817fc3d-48e2-f787-070c-6f3741ef5601--16.imageatlas}
+  - {localId: 1, path: e817fc3d-48e2-f787-070c-6f3741ef5601--17.imageatlas}
+  - {localId: 1, path: e817fc3d-48e2-f787-070c-6f3741ef5601--18.imageatlas}
+  - {localId: 1, path: e817fc3d-48e2-f787-070c-6f3741ef5601--19.imageatlas}
+  - {localId: 1, path: e817fc3d-48e2-f787-070c-6f3741ef5601--20.imageatlas}
+  - {localId: 1, path: e817fc3d-48e2-f787-070c-6f3741ef5601--21.imageatlas}
+  - {localId: 1, path: e817fc3d-48e2-f787-070c-6f3741ef5601--22.imageatlas}
+  - {localId: 1, path: e817fc3d-48e2-f787-070c-6f3741ef5601--23.imageatlas}
+  - {localId: 1, path: e817fc3d-48e2-f787-070c-6f3741ef5601--24.imageatlas}
+  - {localId: 1, path: e817fc3d-48e2-f787-070c-6f3741ef5601--25.imageatlas}
+  - {localId: 1, path: e817fc3d-48e2-f787-070c-6f3741ef5601--26.imageatlas}
+  - {localId: 1, path: e817fc3d-48e2-f787-070c-6f3741ef5601--27.imageatlas}
+memoryLimit: 0
+preload: false
+indexAction:
+  __class: Map
+preloadCount: 0

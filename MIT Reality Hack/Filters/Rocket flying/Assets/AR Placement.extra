@@ -1,0 +1,13 @@
+[
+  {
+    "guid": {
+      "a": "548fed9c-dd86-9848-b9e7-3d4bd862e8b4",
+      "b": ""
+    },
+    "extraType": "ResItemFolder",
+    "name": "AR Placement",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false
+  }
+]

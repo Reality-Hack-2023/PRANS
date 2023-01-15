@@ -1,0 +1,18 @@
+[
+  {
+    "guid": {
+      "a": "83af6cc8-9b9e-b0be-9b85-f51b28ecf4f9",
+      "b": ""
+    },
+    "extraType": "ResItemTextureSequence",
+    "name": "4037774 (1)",
+    "objGuid": "Guid(4765348740009754767, 12142545180181780633)",
+    "rttiType": "AnimSeq",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512
+  }
+]

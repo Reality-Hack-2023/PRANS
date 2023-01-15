@@ -1,0 +1,16 @@
+[
+  {
+    "guid": {
+      "a": "91e83bfe-e427-bdf7-534c-d4c71c3422ea",
+      "b": ""
+    },
+    "extraType": "ResItemMaterialOmtl",
+    "name": "Wolf3D_Body",
+    "objGuid": "Guid(4632248738328693787, 5858960844695827090)",
+    "rttiType": "Material",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "skinObjGuid": "Guid(4910870649679243216, 3696461789520780672)"
+  }
+]

@@ -1,0 +1,24 @@
+%YAML 1.1
+--- !AnimSeq &1
+name: frame_0_delay-0.12s
+guid: {a: 4800853304702761671, b: 5680399889993844399}
+assettype:
+  __class: SeqAssetType
+  value: atlas
+assetfilename: ""
+fps: 1
+lazyload: true
+cache: false
+atlases:
+  - {localId: 1, path: 611482b9-63a8-0003-f418-99a9a511fc85--0.imageatlas}
+  - {localId: 1, path: 611482b9-63a8-0003-f418-99a9a511fc85--1.imageatlas}
+  - {localId: 1, path: 611482b9-63a8-0003-f418-99a9a511fc85--2.imageatlas}
+  - {localId: 1, path: 611482b9-63a8-0003-f418-99a9a511fc85--3.imageatlas}
+  - {localId: 1, path: 611482b9-63a8-0003-f418-99a9a511fc85--4.imageatlas}
+  - {localId: 1, path: 611482b9-63a8-0003-f418-99a9a511fc85--5.imageatlas}
+  - {localId: 1, path: 611482b9-63a8-0003-f418-99a9a511fc85--6.imageatlas}
+memoryLimit: 0
+preload: false
+indexAction:
+  __class: Map
+preloadCount: 0

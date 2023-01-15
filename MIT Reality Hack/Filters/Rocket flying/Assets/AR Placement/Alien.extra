@@ -1,0 +1,13 @@
+[
+  {
+    "guid": {
+      "a": "ff39d482-02f5-15c3-2b61-dc37204df30a",
+      "b": ""
+    },
+    "extraType": "ResItemFolder",
+    "name": "Alien",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false
+  }
+]

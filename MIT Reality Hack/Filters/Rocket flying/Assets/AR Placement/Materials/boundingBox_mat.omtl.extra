@@ -1,0 +1,16 @@
+[
+  {
+    "guid": {
+      "a": "207e542c-9331-db98-26dd-911e20cf9f17",
+      "b": ""
+    },
+    "extraType": "ResItemMaterialOmtl",
+    "name": "boundingBox_mat",
+    "objGuid": "Guid(5264294890084989329, 4249255381038299824)",
+    "rttiType": "Material",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "skinObjGuid": "Guid(5115961322009230969, 9819750471580465285)"
+  }
+]

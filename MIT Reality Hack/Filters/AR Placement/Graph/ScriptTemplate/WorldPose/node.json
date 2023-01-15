@@ -1,0 +1,58 @@
+{
+	"name": "World Transform Info",
+	"id": "2eba42c7-877b-6ef8-baa7-53cb20b806bb",
+	"inputs": [
+		{
+			"name": "Transform",
+			"description": "The Transform component you want to get its world transform information",
+			"type": "Transform",
+			"displayType": "Transform"
+		}
+	],
+	"outputs": [
+		{
+			"name": "World Position",
+			"description": "The world position of the Transform component",
+			"type": "Vector3f",
+			"displayType": "Vec3"
+		},
+		{
+			"name": "World Rotation",
+			"description": "The world rotation of the Transform component",
+			"type": "Vector3f",
+			"displayType": "Vec3"
+		},
+		{
+			"name": "World Scale",
+			"description": "The world scale of the Transform component",
+			"type": "Vector3f",
+			"displayType": "Vec3"
+		},
+		{
+			"name": "Up Dir",
+			"description": "The world Y axis direction (green arrow) of the Transform component",
+			"type": "Vector3f",
+			"displayType": "Vec3"
+		},
+		{
+			"name": "Right Dir",
+			"description": "The world X axis direction (red arrow) of the Transform component",
+			"type": "Vector3f",
+			"displayType": "Vec3"
+		},
+		{
+			"name": "Forward Dir",
+			"description": "The world Z axis direction (blue arrow) of the Transform component",
+			"type": "Vector3f",
+			"displayType": "Vec3"
+		}
+	],
+	"js": "CGWorldPose.js",
+	"category": "Transform",
+	"description": "Get the world space position, rotation, and scale of a Transform component.",
+	"productTypes": [
+		"TTEH"
+	],
+	"version": "1.1.0",
+	"onlineWebsite": "https://effecthouse.tiktok.com/learn/visual-scripting/Transform/World-Transform-Info"
+}

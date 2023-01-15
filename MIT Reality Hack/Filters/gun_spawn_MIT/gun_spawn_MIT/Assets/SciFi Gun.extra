@@ -1,0 +1,13 @@
+[
+  {
+    "guid": {
+      "a": "63d0176d-ae1b-8d34-ac4d-37699a771b8e",
+      "b": ""
+    },
+    "extraType": "ResItemFolder",
+    "name": "SciFi Gun",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false
+  }
+]

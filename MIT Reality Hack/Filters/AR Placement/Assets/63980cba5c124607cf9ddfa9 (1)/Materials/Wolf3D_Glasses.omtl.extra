@@ -1,0 +1,16 @@
+[
+  {
+    "guid": {
+      "a": "01dafb79-9996-9542-3638-6959811415e8",
+      "b": ""
+    },
+    "extraType": "ResItemMaterialOmtl",
+    "name": "Wolf3D_Glasses",
+    "objGuid": "Guid(5505138193598882524, 14856476323452365980)",
+    "rttiType": "Material",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "skinObjGuid": "Guid(5029361010852391968, 11224428075947591041)"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "guid": {
+      "a": "679deac6-9604-0eaf-a98c-31cb43814335",
+      "b": ""
+    },
+    "extraType": "ResItemMaterialOmtl",
+    "name": "doughnut_mat",
+    "objGuid": "Guid(5396447576914369375, 11384522623202413736)",
+    "rttiType": "Material",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "skinObjGuid": "Guid(5546032640875045632, 2615598308534794897)"
+  }
+]

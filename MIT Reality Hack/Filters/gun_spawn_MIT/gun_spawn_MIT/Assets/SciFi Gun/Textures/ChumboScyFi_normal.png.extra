@@ -1,0 +1,26 @@
+[
+  {
+    "guid": {
+      "a": "053dd682-4649-5819-4cf3-7dfc877174b1",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "ChumboScyFi_normal",
+    "objGuid": "Guid(5268691664715057621, 5250826111107525296)",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": true
+  }
+]

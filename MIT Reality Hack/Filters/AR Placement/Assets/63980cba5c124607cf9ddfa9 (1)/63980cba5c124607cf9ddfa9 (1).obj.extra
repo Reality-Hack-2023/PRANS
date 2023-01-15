@@ -1,0 +1,43 @@
+[
+  {
+    "guid": {
+      "a": "ff79c063-9ac4-44ff-6fa3-c589191d609f",
+      "b": ""
+    },
+    "extraType": "ResItemAssimpAsset",
+    "name": "63980cba5c124607cf9ddfa9 (1)",
+    "objGuid": "Guid(4915426111843812089, 4068051898887695489)",
+    "rttiType": "Model",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "importAnimation": false,
+    "importVertexColor": false,
+    "importBlendshape": false,
+    "materialsGUIDs": [
+      "ddd24754-a8d7-25cf-610b-3a8f191df4e1",
+      "44100264-c5f4-6a60-5ffa-0cfc1d194818",
+      "3df99377-5a1d-4289-de0f-844419811e7c",
+      "44650675-b288-5566-a39c-c6577ad40644",
+      "91e83bfe-e427-bdf7-534c-d4c71c3422ea",
+      "946776ee-0f10-b13e-d1ea-83c9bed997d7",
+      "e0de5b3b-2466-ce1e-a3f5-f144b73f47dc",
+      "150d6b79-2110-1c46-3b62-22a5cc1372d4",
+      "7fea85ef-7686-301c-2f8a-242df90ed034",
+      "01dafb79-9996-9542-3638-6959811415e8"
+    ],
+    "meshGUIDs": [
+      "d798d384-6c19-6203-224c-911078ffd045",
+      "019a2a8d-cffb-1a4e-434b-01e885111081",
+      "4e2afee6-452d-6124-5242-458f2903c136",
+      "feb85179-39bd-d61f-983f-54f14b4197b7",
+      "aa67706b-bb86-7afe-aa6b-8678476fe067",
+      "7a61f597-f618-ed88-edd8-e4d95762927f",
+      "f6068062-286f-46e3-3850-60c30c9d566e",
+      "2b6c9b4d-0ede-6d16-1462-566e90788675",
+      "576ac86b-1126-1c6d-0e63-51d5b62ff24e",
+      "4a451e40-f398-4574-5c7f-0c5688c6315e"
+    ],
+    "animazGUIDs": []
+  }
+]

@@ -1,0 +1,29 @@
+%YAML 1.1
+--- !Material &1
+name: Matte Shadow
+guid: {a: 5610171152405500181, b: 7105029148726722223}
+xshader: {localId: 1, path: 00000000-0000-0000-0000-000000000095--00000000-0000-0000-0000-000000000095.xshader}
+properties:
+  __class: PropertySheet
+  name: ""
+  guid: {a: 5061435830645973678, b: 17353821013346094004}
+  floatmap:
+    __class: Map
+  vec4map:
+    __class: Map
+  vec3map:
+    __class: Map
+  vec2map:
+    __class: Map
+  mat4map:
+    __class: Map
+  texmap:
+    __class: Map
+  intmap:
+    __class: Map
+renderQueue: -1
+enabledMacros:
+  __class: Map
+  AE_AMAZING_USE_BONES: !<str> 1
+mshaderPath: ""
+instanceCount: 0

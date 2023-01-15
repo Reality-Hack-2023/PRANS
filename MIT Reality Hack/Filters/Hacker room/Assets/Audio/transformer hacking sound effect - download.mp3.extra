@@ -1,0 +1,16 @@
+[
+  {
+    "guid": {
+      "a": "841d9d1f-cada-351b-1b28-0252b50fcb46",
+      "b": ""
+    },
+    "extraType": "ResItemMP3",
+    "name": "transformer hacking sound effect - download",
+    "objGuid": "Guid(4878736192523369225, 2453139597619784376)",
+    "rttiType": "AudioClip",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "mccState": "SUCCESS"
+  }
+]

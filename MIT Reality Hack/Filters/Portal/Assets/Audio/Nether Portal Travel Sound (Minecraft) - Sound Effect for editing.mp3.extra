@@ -1,0 +1,16 @@
+[
+  {
+    "guid": {
+      "a": "954c1662-2c6b-9629-20ca-cf1d346cf098",
+      "b": ""
+    },
+    "extraType": "ResItemMP3",
+    "name": "Nether Portal Travel Sound (Minecraft) - Sound Effect for editing",
+    "objGuid": "Guid(5532647070837364765, 1373503648802751104)",
+    "rttiType": "AudioClip",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "mccState": "SUCCESS"
+  }
+]

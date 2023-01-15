@@ -1,0 +1,26 @@
+[
+  {
+    "guid": {
+      "a": "2144bd0d-7c25-2126-47ee-f6a186e7f426",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "alien_MRAO",
+    "objGuid": "Guid(5079266990077759818, 11069387193195833513)",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 1,
+    "wrapModeT": 1,
+    "wrapModeR": 1,
+    "premultiplyAlpha": true
+  }
+]

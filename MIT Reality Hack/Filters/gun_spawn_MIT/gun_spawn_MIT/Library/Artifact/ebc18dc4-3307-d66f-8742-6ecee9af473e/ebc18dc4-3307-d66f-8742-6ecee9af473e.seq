@@ -1,0 +1,18 @@
+%YAML 1.1
+--- !AnimSeq &1
+name: 4037774 (1)
+guid: {a: 5555430746435810914, b: 1839954563255004585}
+assettype:
+  __class: SeqAssetType
+  value: atlas
+assetfilename: ""
+fps: 1
+lazyload: true
+cache: false
+atlases:
+  - {localId: 1, path: ebc18dc4-3307-d66f-8742-6ecee9af473e--0.imageatlas}
+memoryLimit: 0
+preload: false
+indexAction:
+  __class: Map
+preloadCount: 0
